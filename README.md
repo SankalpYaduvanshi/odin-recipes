@@ -1,7 +1,14 @@
-# odin-recipes
-In this project we will make a simple html based recipes site.
+# 🍽️ Odin Recipes
 
-We will use:
-Html (Heading, paragraph, lists and images tags.)
+This project is a simple recipe website built with HTML and CSS. 🖥️
 
-CSS (bg color, color, font-family, text-decoration.)
+## 🛠️ Technologies Used
+
+- **HTML**: We've used various HTML elements including headings, paragraphs, lists, and images. 📝
+- **CSS**: We've customized the look of our site using CSS properties such as background color, font color, font family, and text decoration. 🎨
+
+## 🎯 Project Goals
+
+The goal of this project is to create a user-friendly website where users can view various recipes. 🍲
+
+Stay tuned for more updates! 🔔
